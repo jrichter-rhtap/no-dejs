@@ -14,7 +14,7 @@ metadata:
     janus-idp.io/tekton: no-dejs 
     backstage.io/kubernetes-id: no-dejs 
     backstage.io/techdocs-ref: dir:. 
-    quay.io/repository-slug: jrichter/no-dejs
+    quay.io/repository-slug: jrichter/csharp-test
   tags: ["nodejs", "express", "ubi8", "sscs", "sbom", "acs"] 
 spec:
   type: service
